@@ -21,5 +21,7 @@ def play_game():
         print("Player 1 wins this round!")
     else:
         print("Player 2 wins this round!")
+    
+    print("Run the program again to play again!")
 
 play_game()
