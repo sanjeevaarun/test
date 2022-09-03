@@ -22,6 +22,4 @@ def play_game():
     else:
         print("Player 2 wins this round!")
 
-    print("Game Complete!")
-
 play_game()
