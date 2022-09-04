@@ -19,7 +19,9 @@ def play_game():
         print("It's a Draw!!")
     elif player_1 > player_2:
         print("Player 1 wins this round!")
+        print("Player 1 is thirsty for more matches!")
     else:
         print("Player 2 wins this round!")
+        print("Player 2 is thirsty for more matches!")
 
 play_game()
