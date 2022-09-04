@@ -20,8 +20,10 @@ def play_game():
     elif player_1 > player_2:
         print("Player 1 wins this round!")
         print("Player 1 is thirsty for more matches!")
+        print("Player 1 drinks soda!")
     else:
         print("Player 2 wins this round!")
         print("Player 2 is thirsty for more matches!")
+        print("Player 2 drinks soda!")
 
 play_game()
