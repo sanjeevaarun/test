@@ -23,5 +23,11 @@ def play_game():
     else:
         print("Player 2 wins this round!")
         print("Player 2 will have some fries now!")
+        print("Player 1 is thirsty for more matches!")
+        print("Player 1 drinks soda!")
+    else:
+        print("Player 2 wins this round!")
+        print("Player 2 is thirsty for more matches!")
+        print("Player 2 drinks soda!")
 
 play_game()
